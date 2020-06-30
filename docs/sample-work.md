@@ -1,4 +1,4 @@
-[About](index.md) | **Sample Work**
+[About](index.md)  **Sample Work**
 
 # Sample Work
 
