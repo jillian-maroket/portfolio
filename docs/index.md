@@ -59,9 +59,6 @@ I establish content types, structures, and formats, and use technology to effici
 
 # Sample Work
 
-
-# Sample Work
-
 ## UX Writing
 
 [Trend Micro] [Threat Connect](https://youtu.be/kUDFTyvd_HM)  
