@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/jillian-maroket/jillian-maroket/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Designing with Words
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With 10 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes documentation, microcopy, style guides, terminology lists, and process documents.
 
-### Markdown
+## Why Technical Communication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Learning and organizing form the foundation of my life choices and body of work. I assimilate information quickly and relate it to what I already know, creating an internal structure that facilitates retention.
 
-```markdown
-Syntax highlighted code block
+Product users expect technical content to explain unfamiliar concepts and procedures. To effectively teach and guide, I must first determine their informational needs and study the product itself. Technical communication, therefore, allows me to expand my knowledge while helping others do the same.
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
 
-- Bulleted
-- List
+- Structured authoring using the Darwin Information Typing Architecture (DITA XML)
+- Writing for user interfaces
+- Writing technical marketing content (articles, datasheets, website copy)
+- Structural, technical, and copy editing
+- Creation and enforcement of terminology and style standards
+- Configuration of authoring and publishing environments
+- Process documentation and analysis
+- Project management
+- Design and development of print and web publications
+- Audio-visual media production
 
-1. Numbered
-2. List
+## Tools and Technology
 
-**Bold** and _Italic_ and `Code` text
+- Languages: XML, HTML, CSS
+- Content management: SDL Knowledge Center, Umbraco, WordPress
+- XML authoring: Syncro Soft Oxygen, Adobe FrameMaker
+- Print and web publishing: Adobe InDesign and FrameMaker
+- Digital imaging: Adobe Photoshop, TechSmith Snagit
+- General productivity: Microsoft Office, Google Docs, Sheets and Slides
+- Collaboration: Microsoft SharePoint, Atlassian Confluence and Trello, Slack
 
-[Link](url) and ![Image](src)
-```
+# What I Do
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## UX Writing
 
-### Jekyll Themes
+_Creating user-centered content for web and mobile applications_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jillian-maroket/jillian-maroket/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I write interface text (also known as "microcopy") that addresses what users feel and need at each step of their user journey.
 
-### Support or Contact
+## Documentation Writing
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Building help systems that enable users to complete tasks_
+
+I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+
+## Content Strategy
+
+_Designing conversations between products and users_
+
+I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
