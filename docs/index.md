@@ -1,4 +1,5 @@
 - [What I do](#what-i-do)
+- [Skills](#skills)
 - [Sample Work](#sample-work)
 
 # Designing with Words
