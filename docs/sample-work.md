@@ -8,21 +8,15 @@
 
 I wrote the static content on the main console and report pages based on team discussions and personal research. I also wrote the script, created the storyboard, and performed post-production work for the linked presentation.
 
-## Technical Article (Writing)
+## Technical Article
 
 [Unitychain] [Security in Chaos and Entropy](https://www.unitychain.io/blog/true-random-number-generators/)
 
 This article provides a comprehensive introduction to true random number generators and a viable alternative.
 
-## Technical Article (Editing)
-
-[CSP-CERT] [Analyzing Weaponized Documents](http://la.trendmicro.com/media/ds/xsp-consumer-endpoint-security-datasheet-en.pdf)
-
-This article explains common features of weaponized documents and how to extract malicious code. I restructured and rewrote the engineer's draft.
-
 ## Datasheet
 
-[Trend Micro] [Consumer Endpoint Security for Service Providers](http://la.trendmicro.com/media/ds/xsp-consumer-endpoint-security-datasheet-en.pdf)
+[Trend Micro] [Email Security Platform for Service Providers](https://github.com/jillian-maroket/profile/blob/master/docs/xsp-consumer-endpoint-security-datasheet-en.pdf)
 
 This document contains the product's features and benefits, unique selling points, and important technical characteristics.
 
@@ -46,7 +40,7 @@ This guide contains explanations of components and features, and procedures for 
 
 ## Readme
 
-[Trend Micro Deep Discovery Director 1.0](http://docs.trendmicro.com/all/ent/ddd/v1.0/en-us/ddd_1.0_readme.txt)
+[Trend Micro Deep Discovery Director 1.0](https://github.com/jillian-maroket/profile/blob/master/docs/ddd_1.0_readme.txt)
 
 This document contains late-breaking product information that is not found in the documentation. Topics include known issues and product release history.
 
