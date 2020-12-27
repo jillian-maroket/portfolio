@@ -1,0 +1,243 @@
+﻿<<USE COURIER REGULAR 10 FONT IF YOU WOULD LIKE TO PRINT THIS DOCUMENT>>
+
+
+  Trend Micro Incorporated                                     July 2016
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+              Trend Micro(TM) Deep Discovery Director
+                           Version 1.0 
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   NOTICE: This Readme file was current as of the date above. However,
+           all customers are advised to check Trend Micro's website for
+           documentation updates.
+
+       GM release documentation:
+       http://docs.trendmicro.com
+
+       Patch/SP release documentation: 
+       http://downloadcenter.trendmicro.com        
+
+
+   Contents
+   =====================================================================
+    1.  About Deep Discovery Director
+
+    2.  Deep Discovery Director Features
+
+    3.  Documentation Set
+
+    4.  System Requirements
+
+    5.  Installation or Upgrade     
+                                            
+    6.  Post-Installation Configuration
+
+    7.  Known Issues
+
+    8.  Contact Information
+
+    9.  About Trend Micro
+
+    10. License Agreement
+   =====================================================================
+
+
+1. About Deep Discovery Director
+========================================================================
+   
+   Trend Micro Deep Discovery Director 1.0 is an on-premises update
+   management solution that enables centralized deployment of product
+   updates and upgrades to Deep Discovery products. To accommodate
+   different organizational and infrastructural requirements,
+   Deep Discovery Director provides flexible deployment options such
+   as distributed mode and consolidated mode.
+   
+   Deep Discovery Director also supports out-of-the-box integration
+   with Deep Discovery Analyzer, Deep Discovery Email Inspector,
+   and Deep Discovery Inspector.
+
+
+2. Deep Discovery Director 1.0 Features
+========================================================================
+
+   This product release includes the following new features:
+
+   Directory
+   -------------------------------
+   The Directory displays information about Deep Discovery appliances
+   and repository servers that are registered to Deep Discovery Director.
+
+   Deployment Plan
+   ----------------------------
+   Deployment plans define the scope and schedule of update deployment
+   to target appliances.
+
+   Repository
+   ------------------------------
+   The Repository contains all update files hosted by the server. The
+   screen provides filters that you can use to search by update type,
+   product, language, and file name or version. You can also upload and
+   delete files.
+  
+   Updates
+   ----------------------------
+   The Updates screen enables you to apply hotfixes and patches to
+   Deep Discovery Director. After an official product release,
+   Trend Micro releases system updates to address issues, enhance
+   product performance, or add new features.
+
+   Microsoft Active Directory Integration
+   -----------------------------
+   Deep Discovery Director allows Active Directory accounts to access
+   the management console.
+
+   System Logs
+   -----------------------------
+   Deep Discovery Director maintains system logs that provide summaries
+   about user access, setting changes, and other configuration
+   modifications that occurred using the management console.
+
+
+3. Documentation Set
+========================================================================
+  
+   To download or view electronic versions of the documentation set for 
+   this product, go to http://docs.trendmicro.com
+
+   * Administrator's Guide: A PDF document that contains detailed 
+     instructions on how to configure and manage Deep Discovery
+     Director, and explanations on Deep Discovery Director concepts
+     and features. In this release, the document also contains
+     information about requirements and procedures for planning 
+     deployment, installing Deep Discovery Director, and using the 
+     Preconfiguration Console to set initial configurations and 
+     perform system tasks.
+
+   * Online Help: Web-based documentation that is accessible from the 
+     Deep Discovery Director management console and provides
+     explanations of components and features, as well as procedures 
+     needed to configure Deep Discovery Director.
+
+     To access the Online Help, go to http://docs.trendmicro.com
+
+   * Support Portal: The Support Portal contains information on
+     troubleshooting and resolving known issues.
+
+     To access the Support Portal, go to http://esupport.trendmicro.com
+
+
+4. System Requirements
+========================================================================
+   -----------------
+   Virtual appliance
+   -----------------
+   Virtual machine with the following minimum specifications:  
+   * Hypervisor: VMware vSphere ESXi 5.5/6.0
+   * Virtual machine hardware version: 8
+   * Guest operating system: CentOS Linux 6/7 (64-bit)
+   * CPU: 1 virtual socket with 2 cores
+   * Memory: 8GB
+   * Hard disk: 400GB (thin provisioned)
+   * NIC: 1 with E1000 or VMXNET 3 adapter
+   
+   ------------------
+   Management console
+   ------------------
+   * Google Chrome(TM) 46.0 or later
+   * Mozilla(TM) Firefox(TM) 41.0 or later
+   * Microsoft(TM) Internet Explorer(TM) 11.0 
+   Recommended resolution: 1280 x 800 or higher  
+
+
+5. Installation
+========================================================================
+
+   See Chapter 3 of the Administrator's Guide for installation
+   instructions.
+
+
+6. Post-Installation Configuration
+========================================================================
+
+   No post-installation steps are required.
+
+
+7. Known Issues
+========================================================================
+
+   The following are the known issues in this release:
+
+   1. Deep Discovery Director is unable to function correctly if the
+      system is installed with multiple network adapters and if VMXNET
+      is configured as the first adapter. Trend Micro recommends using a
+      single network driver for all network interfaces.
+
+   2. Deep Discovery Director does not support the VMXNET 2 (Enhanced)
+      network adapter.
+
+   3. Active Directory accounts without a User Principal Name (UPN)
+      cannot be used to access the management console.
+
+   4. Deep Discovery Director supports only certificates with the
+      following attributes:
+      a. The file format is PEM.
+      b. The certificate and the private key are in the same file.
+      c. The private key uses the RSA algorithm and is not
+         password-encrypted.
+      d. The certificate digest uses SHA-256 or higher.
+      c. A certificate chain is not used. 
+      
+   5. Deep Discovery Director is unable to connect to a global NTP
+      server when proxy settings are configured. Use a local NTP
+      server instead.
+
+   6. When saving IPv6 network settings for eth1, Deep Discovery
+      Director displays a false error. Disregard the error and reload
+      the page to show the modified eth1 IPv6 network settings.
+
+
+8. Contact Information
+========================================================================
+
+   A license to Trend Micro software usually includes the right to
+   product updates, pattern file updates, and basic technical support
+   for one (1) year from the date of purchase only. After the first
+   year, you must renew Maintenance on an annual basis at Trend Micro's
+   then-current Maintenance fees.
+
+   Contact Trend Micro via fax, phone, and email, or visit our website
+   to download evaluation copies of Trend Micro products.
+
+   http://www.trendmicro.com/us/about-us/contact/index.html
+
+   NOTE: This information is subject to change without notice.
+
+
+9. About Trend Micro
+========================================================================
+
+   Smart, simple, security that fits
+
+   As a global leader in IT security, Trend Micro develops innovative
+   security solutions that make the world safe for businesses and
+   consumers to exchange digital information.
+
+   Copyright 2016, Trend Micro Incorporated. All rights reserved.               
+
+   Trend Micro, the Trend Micro logo, Deep Discovery, and Deep Discovery 
+   Director are trademarks or registered trademarks of Trend Micro,
+   Incorporated. All other product or company names may be trademarks
+   or registered trademarks of their owners.
+
+
+10. License Agreement
+========================================================================
+
+   View information about your license agreement with Trend Micro at: 
+   www.trendmicro.com/us/about-us/legal-policies/license-agreements
+
+   Third-party licensing agreements can be viewed on the Deep Discovery 
+   Director web console.
+
