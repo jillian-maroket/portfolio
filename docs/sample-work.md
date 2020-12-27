@@ -52,7 +52,7 @@ This document contains hardware information, including procedures for component 
 
 ## Getting Started Guide
 
-[QNAP QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/master/docs/QTS4.3.4_GSG_en.zip)
+[QNAP QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/master/docs/QTS4.3.4_GSG_en.pdf)
 
 ## Technical Advisory
 
