@@ -67,15 +67,9 @@ I wrote the static content on the main console and report pages based on team di
 
 This article provides a comprehensive introduction to true random number generators and a viable alternative.
 
-## Technical Article (Editing)
-
-[CSP-CERT] [Analyzing Weaponized Documents](http://la.trendmicro.com/media/ds/xsp-consumer-endpoint-security-datasheet-en.pdf)
-
-This article explains common features of weaponized documents and how to extract malicious code. I restructured and rewrote the engineer's draft.
-
 ## Datasheet
 
-[Trend Micro] [Consumer Endpoint Security for Service Providers](http://la.trendmicro.com/media/ds/xsp-consumer-endpoint-security-datasheet-en.pdf)
+[Trend Micro] [Consumer Endpoint Security for Service Providers](https://github.com/jillian-maroket/profile/blob/a9c1f0f3e7eff95d34860c70a27ddb616048d15d/docs/xsp-consumer-endpoint-security-datasheet-en.pdf)
 
 This document contains the product's features and benefits, unique selling points, and important technical characteristics.
 
