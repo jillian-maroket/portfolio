@@ -60,23 +60,17 @@ I establish content types, structures, and formats, and use technology to effici
 
 Trend Micro | [Trend Micro Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
 
-This guide walks users through the main concepts that they need to understand and the first steps they need to take to start using the API.
+This guide walks users through key concepts and the first steps they need to take to start using the APIs.
 
 ## Online Help 
 
-Trend Micro | [Trend Micro Vision One](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-online-help/assessment-part.aspx)
+Trend Micro | Trend Micro Vision One
 
-This help package contains explanations of components and features, and procedures for configuring and managing the product.
+This help package contains detailed descriptions of components and features, and procedures for configuring and managing the product.
 
-## Getting Started Guide
-
-QNAP | [QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/QTS4.3.4_GSG_en.pdf)
-
-## Installation and Upgrade Guide
-
-Trend Micro | [Deep Discovery Analyzer 5.1](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddan_5.1_iug.pdf)
-
-This guide contains detailed requirements and procedures for installing and upgrading the product.
+The following are some of the topics that I authored.
+- [Security Assessment](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/SecurityAssessment)
+- [Third-Party Integration](https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/common-apps/third-party-integrat/azuresentinel-connec.aspx)
 
 ## User Guide
 
@@ -84,11 +78,23 @@ QNAP | [TS-x73U](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d
 
 This document contains hardware information, including procedures for component installation, basic operations, and troubleshooting.
 
+## Getting Started Guide
+
+QNAP | [QTS 4.3.4 (NAS operating system)](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/QTS4.3.4_GSG_en.pdf)
+
+This guide bridges the gap between the hardware and software guides, helping users quickly set up and store data on their NAS devices.
+
+## Installation and Upgrade Guide
+
+Trend Micro | [Deep Discovery Analyzer 5.1](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddan_5.1_iug.pdf)
+
+This guide contains detailed requirements and procedures for installing and upgrading the product.
+
 ## Readme
 
 Trend Micro | [Deep Discovery Director 1.0](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddd_1.0_readme.txt)
 
-This document contains late-breaking product information that is not found in the documentation. Topics include known issues and product release history.
+This document contains late-breaking product information that is not found in the documentation. Topics covered include known issues and product release history.
 
 ## Technical Advisory
 
@@ -104,15 +110,15 @@ The service provides a detailed view of threats found across segments of your or
 
 ## Tutorial
 
-Trend Micro | [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
-Trend Micro | [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
+- Trend Micro | [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
+- Trend Micro | [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
 
-The videos show you how Trend Micro products can help you detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
+These videos show you how Trend Micro products can help you detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
 
 ## Technical Article
 
-Unitychain | [A Brief History of Random (In)security](https://www.unitychain.io/blog/a-brief-history-of-random-insecurity/)
-Unitychain | [Security in Chaos and Entropy](https://www.unitychain.io/blog/true-random-number-generators/)
+- Unitychain | [A Brief History of Random (In)security](https://www.unitychain.io/blog/a-brief-history-of-random-insecurity/)
+- Unitychain | [Security in Chaos and Entropy](https://www.unitychain.io/blog/true-random-number-generators/)
 
 These articles provide a comprehensive introduction to random number generators.
 
@@ -120,6 +126,6 @@ These articles provide a comprehensive introduction to random number generators.
 
 Trend Micro | [Consumer Endpoint Security for Service Providers](https://github.com/jillian-maroket/profile/blob/a9c1f0f3e7eff95d34860c70a27ddb616048d15d/docs/xsp-consumer-endpoint-security-datasheet-en.pdf)
 
-This document contains the product's features and benefits, unique selling points, and important technical characteristics.
+This document describes the product's features and benefits, unique selling points, and important technical characteristics.
 
 [Back to top](#designing-with-words)
