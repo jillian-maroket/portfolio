@@ -4,9 +4,15 @@
 
 # Designing with Words
 
-With over 10 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes documentation, UX copy, audio-visual media, style guides, and process documents.
+With over 14 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes UX copy, documentation, audio-visual media, style guides, and process documents.
 
 # What I Do
+
+## Content Strategy
+
+_Designing conversations between products and users_
+
+I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
 
 ## UX Writing
 
@@ -20,26 +26,19 @@ _Building help systems that enable users to complete tasks_
 
 I specialize in structured authoring, which is a standardized, methodological approach to content creation.
 
-## Content Strategy
-
-_Designing conversations between products and users_
-
-I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
-
 [Back to top](#designing-with-words)
 
 # Skills
 
+- Project management
 - Content architecture
+- Creation of terminology and style standards
+- Configuration of authoring and publishing environments
 - UX writing
-- Documentation writing (for developers and product console users)
-- Topic-based authoring using the Darwin Information Typing Architecture (DITA)
+- Documentation writing using the Darwin Information Typing Architecture (DITA) and Docs-as-Code approaches
 - Marketing writing (articles, datasheets, website copy, video scripts)
 - Structural, technical, and copy editing
 - Audio-visual media production
-- Creation of terminology and style standards
-- Configuration of authoring and publishing environments
-- Project management
 
 # Tools and Technology
 
@@ -56,27 +55,39 @@ I establish content types, structures, and formats, and use technology to effici
 
 # Sample Work
 
-## API Guide
+## UX Copy
 
-Trend Micro | [Trend Micro Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
+Trend Micro | [Trend Micro Security Assssment Service](https://resources.trendmicro.com/security-assessment-service-us.html)  
 
-This guide walks users through key concepts and the first steps they need to take to start using the APIs.
+The service provides a detailed view of threats found across segments of your organization. I wrote most of the UX copy on the product console and associated applications.  
+
+Atgenomix | [SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp)
+
+SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy on the Azure enterprise application.  
+
+## Tutorial
+
+- Trend Micro | [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
+- Trend Micro | [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
+
+These videos show how Trend Micro products can help detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
 
 ## Online Help 
 
-Trend Micro | Trend Micro Vision One
+Trend Micro | [Trend Vision One](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/Home)
 
 This help package contains detailed descriptions of components and features, and procedures for configuring and managing the product.
 
 The following are some of the topics that I authored.
-- [Security Assessment](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/SecurityAssessment)
-- [Third-Party Integration](https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/common-apps/third-party-integrat/azuresentinel-connec.aspx)
+- [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)
+- [Accounts with Weak Authentication](https://web.archive.org/web/20230317022609/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one-olh/security-posture-gro/executivedashboard/exposureoverview/accountsweakauthenti.aspx)
+- [Deploying the Trend Vision One Connector](https://web.archive.org/web/20230317030954/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/common-apps/third-party-integrat/azuresentinel-connec/azuresentinel-connec_002.aspx)
 
 ## User Guide
 
 QNAP | [TS-x73U](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/TS-x73U-UG-06-en.pdf)
 
-This document contains hardware information, including procedures for component installation, basic operations, and troubleshooting.
+This guide contains hardware information, including procedures for component installation, basic operations, and troubleshooting.
 
 ## Getting Started Guide
 
@@ -90,30 +101,23 @@ Trend Micro | [Deep Discovery Analyzer 5.1](https://github.com/jillian-maroket/p
 
 This guide contains detailed requirements and procedures for installing and upgrading the product.
 
+## API Guide
+
+Trend Micro | [Trend Micro Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
+
+This guide walks users through key concepts and the first steps they need to take to start using the APIs.
+
 ## Readme
 
 Trend Micro | [Deep Discovery Director 1.0](https://github.com/jillian-maroket/profile/blob/40ae0e605d7083d0c300471e01aa453f03b16cbd/docs/ddd_1.0_readme.txt)
 
-This document contains late-breaking product information that is not found in the documentation. Topics covered include known issues and product release history.
+This document contains late-breaking product information that is not found in the main document set. Topics covered include known issues and product release history.
 
 ## Technical Advisory
 
 QNAP | [Potential Silent Data Corruption on NAS Using RAID 5/6](https://www.qnap.com/en/technical-advisory/tec-201707-01)
 
-This advisory contains information on technical issues that affect specific versions of company products.
-
-## UX Copy
-
-Trend Micro | [Trend Micro Security Assssment Service](https://assessment.xdr.trendmicro.com/)  
-
-The service provides a detailed view of threats found across segments of your organization. I wrote most of the UX copy for the product console and associated applications. 
-
-## Tutorial
-
-- Trend Micro | [Trend Micro Apex One](https://www.youtube.com/watch?v=DLiZcT7HzjU)  
-- Trend Micro | [Trend Micro Worry-Free XDR](https://www.youtube.com/watch?v=4QEUy3pzZOU)  
-
-These videos show you how Trend Micro products can help you detect, investigate, and respond to cyberattacks. I wrote the scripts and worked with the multimedia designer in creating the storyboards.
+This advisory contains information about technical issues that affect specific versions of company products.
 
 ## Technical Article
 
