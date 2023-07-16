@@ -58,13 +58,13 @@ I specialize in structured authoring, which is a standardized, methodological ap
 
 ## UX Copy
 
-Trend Micro | [Trend Micro Security Assssment Service](https://resources.trendmicro.com/security-assessment-service-us.html)  
+Trend Micro | [Trend Micro Security Assessment Service](https://resources.trendmicro.com/security-assessment-service-us.html)  
 
-The service provides a detailed view of threats found across segments of an organization. I wrote most of the UX copy on the product console and associated applications.  
+The service provides a detailed view of threats found across segments of an organization. I wrote the UX copy in early versions of the product console and associated applications.   
 
 Atgenomix | [SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp)
 
-SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy on the Azure enterprise application.  
+SeqsLab is a cloud-native biomedical information technology platform. I wrote most of the UX copy in the Azure enterprise application.  
 
 ## Tutorial
 
