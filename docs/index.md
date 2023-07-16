@@ -31,20 +31,21 @@ I specialize in structured authoring, which is a standardized, methodological ap
 # Skills
 
 - Project management
-- Content architecture
+- Content strategy
+- Information architecture
 - Creation of terminology and style standards
 - Configuration of authoring and publishing environments
 - UX writing
-- Documentation writing using the Darwin Information Typing Architecture (DITA) and Docs-as-Code approaches
+- Documentation writing using the Darwin Information Typing Architecture (DITA) and Docs-as-Code workflows
 - Marketing writing (articles, datasheets, website copy, video scripts)
 - Structural, technical, and copy editing
 - Audio-visual media production
 
 # Tools and Technology
 
-- Languages: XML, YAML, Markdown, HTML, CSS
+- Languages: HTML, Markdown, XML, YAML
 - XML authoring: Syncro Soft Oxygen, Adobe FrameMaker
-- Content management: SDL Tridion Docs, Umbraco, WordPress
+- Content management: SDL Tridion Docs, Umbraco
 - Source code management: GitHub
 - Interface design: Figma, Adobe XD
 - Print and web publishing: Adobe InDesign
@@ -59,7 +60,7 @@ I specialize in structured authoring, which is a standardized, methodological ap
 
 Trend Micro | [Trend Micro Security Assssment Service](https://resources.trendmicro.com/security-assessment-service-us.html)  
 
-The service provides a detailed view of threats found across segments of your organization. I wrote most of the UX copy on the product console and associated applications.  
+The service provides a detailed view of threats found across segments of an organization. I wrote most of the UX copy on the product console and associated applications.  
 
 Atgenomix | [SeqsLab V3](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/atgenomix.seqslab-v3-azapp)
 
