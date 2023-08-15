@@ -75,14 +75,21 @@ These videos show how Trend Micro products can help detect, investigate, and res
 
 ## Online Help 
 
+These help packages contain detailed descriptions of components and features, and procedures for configuring and managing the platforms.
+
 Trend Micro | [Trend Vision One](https://docs.trendmicro.com/en-us/enterprise/trend-micro-xdr-help/Home)
 
-This help package contains detailed descriptions of components and features, and procedures for configuring and managing the product.
-
-The following are some of the topics that I authored.
+The following are some of the topics that I wrote.
 - [Risk Reduction Measures](https://web.archive.org/web/20230310011607/https://docs.trendmicro.com/en-us/enterprise/trend-micro-vision-one/security-posture-gro/identity-and-risk-in/risk-insights/cloud-app-risk-index/riskreductionmeasure.aspx)
 - [Accounts with Weak Authentication](https://web.archive.org/web/20230317022609/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one-olh/security-posture-gro/executivedashboard/exposureoverview/accountsweakauthenti.aspx)
 - [Deploying the Trend Vision One Connector](https://web.archive.org/web/20230317030954/https://docs.trendmicro.com/en-us/enterprise/trend-vision-one/common-apps/third-party-integrat/azuresentinel-connec/azuresentinel-connec_002.aspx)
+
+Atgenomix | [SeqsLab V3](https://docs.atgenomix.com/home.html)
+
+The following are some of the topics that I wrote.
+- [Interactive jobs](https://web.archive.org/web/20230814114953/https://docs.atgenomix.com/tutorials/jobs_interactive.html)
+- [Request Azure backend quota](https://web.archive.org/web/20230704012614/https://docs.atgenomix.com/tutorials/request-quota.html)
+- [Configure storage log access](https://web.archive.org/web/20230630064855/https://docs.atgenomix.com/tutorials/configure-log-access.html)
 
 ## User Guide
 
@@ -104,7 +111,7 @@ This guide contains detailed requirements and procedures for installing and upgr
 
 ## API Guide
 
-Trend Micro | [Trend Micro Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
+Trend Micro | [Trend Vision One Automation Center](https://automation.trendmicro.com/xdr/Guides/Getting-Started)
 
 This guide walks users through key concepts and the first steps they need to take to start using the APIs.
 
