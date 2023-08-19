@@ -2,17 +2,15 @@
 - [Skills](#skills)
 - [Sample Work](#sample-work)
 
-# Designing with Words
-
-With over 14 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes UX copy, documentation, audio-visual media, style guides, and process documents.
-
 # What I Do
 
-## Content Strategy
+With over 15 years of experience in technical communication, I possess a proven track record of distilling technical information into accessible content, enhancing the overall user experience and driving positive outcomes for the organizations I collaborate with. Throughout my career, I have been a staunch advocate for clear and consistent writing, ensuring that users can easily grasp complex concepts, navigate products with confidence, and accomplish tasks seamlessly.
 
-_Designing conversations between products and users_
+## Documentation Writing
 
-I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
+_Building help systems that enable users to understand concepts and complete tasks_
+
+I specialize in structured authoring, which is a standardized, methodological approach to content creation.
 
 ## UX Writing
 
@@ -20,39 +18,40 @@ _Creating user-centered content for web and mobile applications_
 
 I write interface text (also known as "UX copy") that addresses what users feel and need at each step of their user journey.
 
-## Documentation Writing
+## Content Strategy
 
-_Building help systems that enable users to complete tasks_
+_Designing conversations between products and users_
 
-I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
 
-[Back to top](#designing-with-words)
+[Back to top](#what-i-do)
 
 # Skills
 
-- Project management
-- Content strategy
-- Information architecture
-- Creation of terminology and style standards
-- Configuration of authoring and publishing environments
-- UX writing
-- Documentation writing using the Darwin Information Typing Architecture (DITA) and Docs-as-Code workflows
-- Marketing writing (articles, datasheets, website copy, video scripts)
-- Structural, technical, and copy editing
-- Audio-visual media production
+- Information architecture  
+- Structured authoring using the Darwin Information Typing Architecture (DITA)  
+- API documentation  
+- Content delivery using Docs-as-Code workflows  
+- UX writing  
+- Audio-visual media production  
+- Structural, technical, and copy editing  
+- Content strategy  
+- Creation of terminology and style standards  
+- Configuration of authoring and publishing environments • Project management
 
 # Tools and Technology
 
-- Languages: HTML, Markdown, XML, YAML
-- XML authoring: Syncro Soft Oxygen, Adobe FrameMaker
-- Content management: SDL Tridion Docs, Umbraco
-- Source code management: GitHub
-- Interface design: Figma, Adobe XD
-- Print and web publishing: Adobe InDesign
-- Digital imaging: Adobe Photoshop, TechSmith Snagit
-- Collaboration and productivity: Atlassian Confluence and Jira, Notion, Slack
+- Languages: HTML, Markdown, XML, YAML  
+- XML authoring: Syncro Soft Oxygen, Adobe FrameMaker  
+- Content management: SDL Tridion Docs, Umbraco  
+- Source code editing: Visual Studio Code, Sublime Text  
+- Source code management: GitHub  
+- Interface design: Figma, Adobe XD  
+- Print and web publishing: Adobe InDesign  
+- Digital imaging: Adobe Photoshop, TechSmith Snagit  
+- Collaboration and productivity: Atlassian Confluence and Jira, Notion, Slack  
 
-[Back to top](#designing-with-words)
+[Back to top](#what-i-do)
 
 # Sample Work
 
@@ -140,4 +139,4 @@ Trend Micro | [Consumer Endpoint Security for Service Providers](https://github.
 
 This document describes the product's features and benefits, unique selling points, and important technical characteristics.
 
-[Back to top](#designing-with-words)
+[Back to top](#what-i-do)
