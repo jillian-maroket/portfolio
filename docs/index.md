@@ -41,7 +41,7 @@ I establish content types, structures, and formats, and use technology to effici
 
 # Tools and Technology
 
-- Languages: HTML, Markdown, XML, YAML  
+- Languages: HTML, Markdown, XML, YAML, SQL  
 - XML authoring: Syncro Soft Oxygen, Adobe FrameMaker  
 - Content management: SDL Tridion Docs, Umbraco  
 - Source code editing: Visual Studio Code, Sublime Text  
